@@ -1,5 +1,6 @@
 ## Exeedme Game Mining
 
-Run tests:
+### Contracts addresses
 
-- npm run test
+- To be published soon
+
